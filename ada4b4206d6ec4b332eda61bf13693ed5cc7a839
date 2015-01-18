@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da2a55be_b201e63b",
+        "filename": "ch.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-01-18T18:28:37Z",
+      "side": 1,
+      "message": "use this from cm",
+      "range": {
+        "startLine": 3,
+        "startChar": 4,
+        "endLine": 4,
+        "endChar": 34
+      },
+      "revId": "ada4b4206d6ec4b332eda61bf13693ed5cc7a839",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da2a55be_92fe6237",
+        "filename": "ch.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-01-18T18:28:37Z",
+      "side": 1,
+      "message": "some \",\" missing",
+      "range": {
+        "startLine": 7,
+        "startChar": 4,
+        "endLine": 10,
+        "endChar": 22
+      },
+      "revId": "ada4b4206d6ec4b332eda61bf13693ed5cc7a839",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
