@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a245df4_c7477e4a",
+        "filename": "ch.dependencies",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-01-19T17:12:02Z",
+      "side": 1,
+      "message": ",",
+      "revId": "598ae445524a797da3cf1131c826bec407663ba8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
